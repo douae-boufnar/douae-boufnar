@@ -43,5 +43,10 @@
 ### 📈 Statistiques GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=douae-boufnar&show_icons=true&count_private=true&theme=default&hide_border=true&cache_seconds=3600" width="60%" />
+  <img src="https://komarev.com/ghpvc/?username=douae-boufnar&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=douae-boufnar&show_icons=true&count_private=true&theme=default&hide_border=true&cache_seconds=3600" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=douae-boufnar&theme=default&hide_border=true" width="48%" />
 </p>
