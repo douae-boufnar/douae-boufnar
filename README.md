@@ -1,17 +1,17 @@
-
-<h1 align="center">Salut, moi c'est Douae 👋</h1>
+<h1 align="center">Salut, moi c'est Douae Boufnar 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=E8A87C&center=true&vCenter=true&width=500&lines=%C3%89tudiante+en+Informatique+%F0%9F%92%BB;Passionn%C3%A9e+de+D%C3%A9veloppement+Web;Toujours+en+train+d'apprendre+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=E8A87C&center=true&vCenter=true&width=600&lines=%C3%89tudiante+en+G%C3%A9nie+Informatique+%40+ENSA+Tetouan;Passionn%C3%A9e+de+D%C3%A9veloppement+Web;Explore+le+DevOps+%26+les+nouvelles+technos+%E2%9A%99%EF%B8%8F" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 🧑‍💻 À propos de moi
 
-- 🎓 Étudiante en informatique, curieuse et motivée
-- 🌱 Actuellement en apprentissage du développement web (Frontend/Backend) et de la programmation système
-- 🛠️ J'aime construire des projets concrets pour progresser
+- 🎓 Étudiante en **Génie Informatique** à l'**ENSA Tétouan**
+- 💻 Passionnée par le **développement web** (Frontend & Backend)
+- ⚙️ En exploration du **DevOps** et des **nouvelles technologies**
+- 🌱 Toujours en train d'apprendre et de construire des projets concrets
 - 📫 Comment me contacter : *[ton email ou LinkedIn ici]*
 
 ---
@@ -26,6 +26,7 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
 
 ---
