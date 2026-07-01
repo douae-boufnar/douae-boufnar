@@ -1,10 +1,6 @@
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=1D1D1D&vCenter=true&width=500&height=50&lines=Salut%2C+c'est+Douae+Boufnar+%F0%9F%91%8B" alt="Typing SVG" />
+<h1 align="center">Salut, c'est Douae Boufnar 👋</h1>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/ENSA%20T%C3%A9touan-G%C3%A9nie%20Informatique-E8A87C?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/D%C3%A9veloppement%20Web-Frontend%20%26%20Backend-4A90D9?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/DevOps-Passionn%C3%A9e-2496ED?style=for-the-badge" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=E8A87C&vCenter=true&width=600&height=40&lines=ENSA+Tetouan+-+Genie+Informatique;Developpement+Web+-+Frontend+%26+Backend;DevOps+-+Passionnee" alt="Typing SVG" />
 
 ---
 
