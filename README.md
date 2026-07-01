@@ -1,28 +1,24 @@
-<h1 align="center">Salut, moi c'est Douae Boufnar 👋</h1>
+<h1 align="center">Salut, c'est Douae Boufnar 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=E8A87C&center=true&vCenter=true&width=600&lines=Etudiante+en+Genie+Informatique+-+ENSA+Tetouan;Passionnee+de+Developpement+Web;Passionnee+par+le+DevOps+%E2%9A%99%EF%B8%8F" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/douae-boufnar-43695b35b/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+  <img src="https://img.shields.io/badge/ENSA%20T%C3%A9touan-G%C3%A9nie%20Informatique-E8A87C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/D%C3%A9veloppement%20Web-Frontend%20%26%20Backend-4A90D9?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/DevOps-Passionn%C3%A9e-2496ED?style=for-the-badge" />
 </p>
 
 ---
 
-### 🧑‍💻 À propos de moi
+### ✨ À propos de moi
 
-- 🎓 Étudiante en Génie Informatique, ENSA Tétouan
-- 💻 Passionnée par le développement web (Frontend & Backend)
-- ⚙️ Passionnée par le DevOps et les nouvelles technologies
-- 🌱 Toujours en train d'apprendre et de construire des projets concrets
-- 📫 Me contacter : [LinkedIn](https://www.linkedin.com/in/douae-boufnar-43695b35b/)
+- 🧠 Étudiante en Génie Informatique, ENSA Tétouan
+- ⚡ Passionnée par le développement web (Frontend & Backend)
+- 🔧 Passionnée par le DevOps et les nouvelles technologies
+- 🚀 Toujours en train d'apprendre et de construire des projets concrets
+- 🔗 Me contacter : [LinkedIn](https://www.linkedin.com/in/douae-boufnar-43695b35b/)
 
 ---
 
-### 🧰 Stack technique
+### 🛠️ Stack technique
 
 <p align="left">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
@@ -44,18 +40,8 @@
 
 ---
 
-### 📊 Statistiques GitHub
+### 📈 Statistiques GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=douae-boufnar&show_icons=true&count_private=true&theme=default&hide_border=true" width="60%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=douae-boufnar&layout=compact&theme=default&hide_border=true" width="50%" />
-</p>
-
----
-
-<p align="center">
-  <em>Merci de visiter mon profil ✨ N'hésite pas à explorer mes dépôts !</em>
+  <img src="https://github-readme-stats.vercel.app/api?username=douae-boufnar&show_icons=true&count_private=true&theme=default&hide_border=true&cache_seconds=3600" width="60%" />
 </p>
