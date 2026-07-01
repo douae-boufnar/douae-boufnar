@@ -1,6 +1,6 @@
 <h1 align="center">Salut, c'est Douae Boufnar 👋</h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=E8A87C&vCenter=true&width=600&height=40&lines=ENSA+Tetouan+-+Genie+Informatique;Developpement+Web+-+Frontend+%26+Backend;DevOps+-+Passionnee" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=E8A87C&vCenter=true&width=600&height=40&lines=%C3%89tudiante+%C3%A0+l%27ENSA+T%C3%A9touan;Passionn%C3%A9e+par+le+d%C3%A9veloppement+web+Front+%26+Back;Passionn%C3%A9e+par+le+DevOps" alt="Typing SVG" />
 
 ---
 
